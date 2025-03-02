@@ -105,7 +105,6 @@ This webpage demonstrates my skills in UI/UX design, front-end development, and 
 # OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/5015c4f3-bbe7-44fc-998b-2ee7f839325e)
-
 ![Image](https://github.com/user-attachments/assets/6a748e18-6ec8-4b1a-919d-8732186a9c44)
 
 **Mobile View**
